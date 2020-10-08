@@ -6,8 +6,8 @@ abc=$((RANDOM%2));
 
 if [[ abc -eq 1 ]]
 then
-	echo "Employee Present";
+	echo " Employee Present";
 else
-	echo "Employee Absend";
+	echo " Employee Absend";
 fi
 
